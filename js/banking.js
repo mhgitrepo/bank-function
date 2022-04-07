@@ -36,8 +36,6 @@ function updateBalance(amount, isAdd){
     else{
         balanceTotal.innerText = previousBalanceTotal - amount;
     }
-
-    
 }
 
 
