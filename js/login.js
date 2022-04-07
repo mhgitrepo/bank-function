@@ -8,7 +8,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
     const userPassword = passwordField.value;
 
     //check email and password
-    if(userEmail == 'abcd@gmail.com' && userPassword == 'secret'){
+    if(userEmail == 'abcd@gmail.com' && userPassword == 'go'){
         window.location.href = 'banking.html';
     }
 });
